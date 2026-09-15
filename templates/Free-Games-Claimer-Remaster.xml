@@ -19,7 +19,7 @@
 
   <!-- NOTE: Either Support or Project is REQUIRED -->
   <!-- Support forum -->
-  <Support>https://forums.unraid.net/topic/YOUR_SUPPORT_TOPIC</Support>
+  <!--<Support>https://forums.unraid.net/topic/YOUR_SUPPORT_TOPIC</Support>-->
   
   <!-- Project page -->
   <Project>https://github.com/P-Adamiec/Free-Games-Claimer-Remaster</Project>
@@ -42,7 +42,7 @@
   <Date>2026-09-14</Date>
   
   <!-- Optional: set to true if this is a beta container -->
-  <!-- <Beta>true</Beta> -->
+   <Beta>true</Beta>
 
   <!-- Minimum and maximum Unraid version.-->
   <MinVer>6.1</MinVer>
