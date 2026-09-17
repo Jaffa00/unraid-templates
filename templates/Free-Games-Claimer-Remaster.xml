@@ -43,7 +43,7 @@
 
   <!-- Minimum and maximum Unraid version.-->
   <MinVer>6.1</MinVer>
-  <MaxVer>7.3</MaxVer>
+  <MaxVer>7.3.2</MaxVer>
 
   <!-- Optionally set this if this container is deprecated for all OS versions -->
   <!-- <Deprecated>true</Deprecated> -->
